@@ -18,7 +18,7 @@ html {
   font-size: 1em;
   line-height: 1.4;
   background-image:
-          url('/img/telegram-pattern.svg'),
+          url('../img/telegram-pattern.svg'),
           linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
